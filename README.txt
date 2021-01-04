@@ -1,4 +1,4 @@
-# Scan-QR-Code-use-OpenCV-Python by anth.fuhn
+# Scan-QR-Code-use-OpenCV-Python
 
 #Step 1: Install Python3.7
   Windows: https://www.python.org/downloads/release/python-370/
